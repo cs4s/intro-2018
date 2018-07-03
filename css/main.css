@@ -238,8 +238,21 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
     content: "\f055 ";
   }
 
+.outcome-icon {
+  padding-right: 0.5em;
+  padding-left: 0.3em;
+}
+
+.outcome-header {
+  text-transform: none;
+  font-size: 1rem;
+  text-decoration: none;
+  font-weight: 500;
+  padding-left: 0.5em;
+}
+
 .outcome-header:hover {
-    text-decoration: none;
+  text-decoration: none;
 }
 
 .scratch-blocks {
@@ -247,7 +260,7 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 }
 
 .accordion-header {
-  padding: 0.2em;
+  padding: 0.4em;
 }
 
 .exercise-header, .section-header {
