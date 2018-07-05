@@ -28,7 +28,7 @@ In this session, you will also learn about *Events*, which are another **computa
 
 ### Presentations
 
-- [Moving from Unplugged to Blocks Coding]() (PDF Presentation - Missing)
+- [Moving from Unplugged to Blocks Coding]({{ site.drive_url | append: '1zSn5r-dg4B2qDKaFF-y8YSSu5m-A0H7G' }}){:target="_blank"} (PDF Presentation)
 
 ### Activities
 
@@ -42,6 +42,7 @@ In this session, you will also learn about *Events*, which are another **computa
 
 - [Code.org](https://code.org/){:target="_blank"}
 - [Code Combat](https://codecombat.com/){:target="_blank"}
+- [Project Euler](https://projecteuler.net/){:target="_blank"}
 - [Scratch](https://scratch.mit.edu/){:target="_blank"}
 - [Swift Playgrounds](https://www.apple.com/au/swift/playgrounds/){:target="_blank"}
 - [The Beauty and Joy of Computing](https://bjc.berkeley.edu/){:target="_blank"}
