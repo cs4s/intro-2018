@@ -26,6 +26,7 @@ If you are interested in finding out more about *Coding*, *Computational Thinkin
 
 - [Computer Science Unplugged](http://csunplugged.org/){:target="_blank"}
 - [TryComputing Lesson Plans](http://www.trycomputing.org/inspire){:target="_blank"}
+- [UCL ScratchMaths](http://www.ucl.ac.uk/ioe/research/projects/scratchmaths){:target="_blank"}
 - [Google CS First](https://www.cs-first.com/){:target="_blank"}
 - [Code Club Resources](http://projects.codeclubworld.org/en-GB/){:target="_blank"}
 
@@ -38,4 +39,6 @@ If you are interested in finding out more about *Coding*, *Computational Thinkin
 
 - [Connected Code: Why Children Need to Learn Programming](https://mitpress.mit.edu/connected-code){:target="_blank"}
 - [Invent To Learn: Making, Tinkering, and Engineering in the Classroom](http://inventtolearn.com/){:target="_blank"}
-- [The Invent to Learn Guide to Making in the K–3 Classroom: Why, How, and Wow!](http://cmkpress.com/the-invent-to-learn-guide-to-making-in-the-k-3-classroom/){:target="_blank"}
+- [Connected Gaming: What Making Video Games Can Teach Us about Learning and Literacy](https://mitpress.mit.edu/books/connected-gaming){:target="_blank"}
+- [Lifelong Kindergarten: Cultivating Creativity through Projects, Passion, Peers, and Play](https://mitpress.mit.edu/books/lifelong-kindergarten){:target="_blank"}
+ 
