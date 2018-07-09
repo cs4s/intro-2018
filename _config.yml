@@ -27,7 +27,8 @@ creative_computing_path: "/day1/creative_computing/"
 day2_path: "/day2/"
 blocks_to_text_path: "/day2/blocks_to_text/"
 physical_computing_path: "/day2/physical_computing/"
-lesson_planning: "/day2/lesson_planning/"
+lesson_planning_path: "/day2/lesson_planning/"
+sharing_path: "/day2/sharing/"
 
 plugins:
   - jekyll-redirect-from
