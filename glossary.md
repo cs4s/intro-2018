@@ -216,6 +216,29 @@ when this sprite clicked
 ~~~
 {: .language-scratch}
 
+
+### General-Purpose Programming
+
+For the purposes of this workshop and according to the definition given in the [2017 NSW Technology Mandatory (Years 7-8) syllabus](http://educationstandards.nsw.edu.au/wps/portal/nesa/k-10/learning-areas/technologies/technology-mandatory-7-8-new-syllabus){:target="_blank" } document, a **General-Purpose Programming** language is one that is "text-based". Examples of **General-Purpose Programming** languages include [Python](https://www.python.org/){:target="_blank" }, [JavaScript](https://www.javascript.com/){:target="_blank" } and [Ruby](https://www.ruby-lang.org/en/){:target="_blank"}.
+
+Most [Programs](#program) created in **General-Purpose Programming** languages have to be written out in text.
+Unlike a [Visual Programming](#visual-programming) language, such as *Scratch*, [Programs](#program) in **General-Purpose Programming** languages cannot usually be created by snapping together blocks like puzzle pieces.
+However, there are some examples of languages that can be written using both blocks and text, which we call [Hybrid Coding Environments](#hybrid-coding-environments) in this workshop.
+
+In most cases, **General-Purpose Programming** languages are used by professional software developers and researchers, whereas [Visual Programming](#visual-programming) languages are usually not.
+For example, [Swift](https://developer.apple.com/swift/){:target="_blank"} is a text-based language that is used to code apps for the App Store.
+Similarly, [R](https://www.r-project.org/about.html){:target="_blank"} is a text-based language is commonly used by scientists when they analyse data from experiments.
+
+Another definition of **General-Purpose Programming** languages, which includes more examples of these languages, is given on ACARA's [Technologies Glossary Page](https://www.australiancurriculum.edu.au/f-10-curriculum/technologies/glossary/?letter=G){:target="_blank"}.
+
+### Hybrid Coding Environments
+
+For the purposes of this workshop, **Hybrid Coding Environments** are [Coding](#coding) languages/environments that combine [Visual Programming](#visual-programming) (*Blocks*) and [General-Purpose Programming](#general-purpose-programming) (*Text*), or that allow you to switch between these different modes. 
+Examples of **Hybrid Coding Environments** include [Microsoft's MakeCode](https://makecode.microbit.org/){:target="_blank"}, [Code.org's AppLab](https://code.org/educate/applab){:target="_blank"} and [PencilCode](http://pencilcode.net/){:target="_blank"}
+
+**Hybrid Coding Environments** are also sometimes referred to as *Dual-Mode Coding Environments* (because there are two modes: *Blocks* and *Text*).
+These environments could help students move from a [Visual Programming](#visual-programming) language (for example, *Scratch*) to a [General-Purpose Programming](#general-purpose-programming) language (for example, *Python*), although there has not been extensive research to prove this yet.
+
 ### Invalid Input
 
 **Invalid input** is a term for *user input* that is put into a system which is nonsensical or that causes the system to act in an unexpected way.
@@ -383,6 +406,22 @@ When we refer to a **program**, we mean that the instructions for the computer t
 ### Programming
 
 See the definition of [Coding](#coding) above.
+
+### Random
+
+In [Coding](#coding), you can often use different commands to create **Random** numbers.
+It is often useful to create **Random** numbers in [programs](#program) that involve simulations or some chance (such as rolling a dice).
+For example, if you are creating a card game in Scratch, you may need to have a deck of cards that you need to shuffle into **Random** order.
+
+In Scratch, one of the ways to create **Random** numbers is using the *pick random* block, which is in the *Operators* section of the blocks pane.
+For example, you may create a game in Scratch where the player rolls a die.
+To simulate the throwing of a die, you could use a *pick random* block that will randomly choose an integer (whole number) between 1 and 6.
+When this block, which is shown in the image below, is clicked, a **Random** number between 1 and 6 will be chosen.
+
+~~~
+pick random (1) to (6)
+~~~
+{: .language-scratch}
 
 ### Remixing
 
