@@ -1,6 +1,6 @@
 ---
 layout: session
-title: From Blocks to Text - Day - 2CS4S Introduction Workshop @ UON 2018
+title: From Blocks to Text - Day 2 - CS4S Introduction Workshop @ UON 2018
 ---
 
 # Moving From Blocks to Text Coding
@@ -18,7 +18,7 @@ After a presentation that explains the differences between *Blocks languages* to
 [Pencil Code](http://pencilcode.net/){:target="_blank"} is an example of a *Hybrid Coding Environment*, which allows you to switch between *Blocks* and *Text* modes.
 Consequently, *Pencil Code* could be a useful tool to use for helping students move from *Blocks* to *Text* Coding, or for differentiating instruction in your lessons.
 
-In this session's activity you will apply two of the **Computational Concepts** that you learned about yesterday (*Sequences* and *Loops*), as well as some Mathematics concepts, to command a Turtle Sprite in *Pencil Code* to draw Art.
+In this session's activities you will apply two of the **Computational Concepts** that you learned about yesterday (*Sequences* and *Loops*), as well as some Mathematics concepts, to command a Turtle Sprite in *Pencil Code* to draw Art.
 You will also learn about another **Computational Concept** called *Operators*.
 *Operators* can be used for a variety of purposes, such as the *random* block that you will use in the activity to move the Turtle Sprite to random positions on the Canvas.
 
@@ -35,12 +35,13 @@ You will also learn about another **Computational Concept** called *Operators*.
 
 ### Activities
 
+
 - [Drawing a Sky Full of Stars with Pencil Code]() (Word document)
 - [Creating Dot Paintings with Pencil Code]() (Word document)
 
 ## Links
 
-In this section, we have included links to resources for learning and teaching with *PencilCode*, as well as links to websites for the different types of *Coding* languages that are commonly used in K-12 education.
+In this section, we have included links to resources for learning and teaching with *Pencil Code*, as well as links to websites for the different types of *Coding* languages that are commonly used in K-12 education.
 
 ### PencilCode
 
