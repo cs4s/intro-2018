@@ -31,10 +31,9 @@ You will also learn about another **Computational Concept** called *Operators*.
 ### Presentations
 
 - [Moving from Blocks to Text Coding]({{ site.drive_url | append: '1PFHNIy7AyjukuBJpRk-hLnBl4PUfEg-N' }}){:target="_blank"} (PDF Presentation)
-- [Using Coding and Mathematics to Make Art]({{ site.drive_url | append: '' }}){:target="_blank"} (PDF Presentation - Missing)
+- [Drawing Art with Coding and Mathematics]({{ site.drive_url | append: '1edidD7-jLnKJuwui8f4qfg206uDXtk3b' }}){:target="_blank"} (PDF Presentation)
 
 ### Activities
-
 
 - [Drawing a Sky Full of Stars with Pencil Code]() (Word document)
 - [Creating Dot Paintings with Pencil Code]() (Word document)
