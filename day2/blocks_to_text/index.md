@@ -35,8 +35,8 @@ You will also learn about another **Computational Concept** called *Operators*.
 
 ### Activities
 
-- [Drawing a Sky Full of Stars with Pencil Code]() (Word document)
-- [Creating Dot Paintings with Pencil Code]() (Word document)
+- [Drawing a Sky Full of Stars with Pencil Code]() (Word document - Missing)
+- [Creating Dot Paintings with Pencil Code]() (Word document - Missing)
 
 ## Links
 

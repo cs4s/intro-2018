@@ -27,14 +27,14 @@ At the end of the session the lesson plans that have been created will be shared
 - [7-8 Technology Mandatory Lesson Plan]({{ site.drive_url | append: '1xl_qcYwoc9241X26k8Ysi-c4YUnukQcL' }}) (Word document)
 - [Blank Lesson Plan (for other Key Learning Areas)]({{ site.drive_url | append: '1WD1WYDgFP_HctN512yHXJTL4iv9tKi2d' }}) (Word document)
 
-### Links
-
-#### Syllabuses and Guides
+### Syllabuses and Guides
 
 - [NSW Science & Technology K-6 Syllabus (2017)](https://educationstandards.nsw.edu.au/wps/wcm/connect/5ab69646-f1d4-404b-9c16-b39dfb0986d3/science-and-technology-k-6-syllabus-2017.pdf?MOD=AJPERES&CVID=){:target="_blank"} (PDF Document)
 - [NSW Technology Mandatory (Years 7-8) Syllabus (2017)](http://educationstandards.nsw.edu.au/wps/wcm/connect/84369526-14e2-4fd3-acc0-98062f574a0e/technology-mandatory-7-8-syllabus-2017.pdf?MOD=AJPERES&CVID=){:target="_blank"} (PDF Document)
 - [NSW Education Standard Authority's Digital Technologies and ICT Resources Guide](http://educationstandards.nsw.edu.au/wps/portal/nesa/k-10/learning-areas/technologies/coding-across-the-curriculum){:target="_blank"}
 - [Research Article: Computational Thinking Task Design and Assessment](https://education.nsw.gov.au/teaching-and-learning/professional-learning/scan/past-issues/vol-36,-2017/computational-thinking-task-design-and-assessment){:target="_blank"}
+
+### Resources Links
 
 #### Unplugged Resources
 
