@@ -24,7 +24,7 @@ You will also learn about another **Computational Concept** called *Operators*.
 
 ## Metalanguage
 
-[algorithm](){: .metalanguage }, [computational thinking](){: .metalanguage }, [computational concept](){: .metalanguage}, [computational practice](){: .metalanguage }, [computational perspective](){: .metalanguage}, [coding](){: .metalanguage }, [visual programming](){: .metalanguage }, [general-purpose programming](){: .metalanguage }, [hybrid coding environments](){: .metalanguage } [sequences](){: .metalanguage }, [loops](){: .metalanguage }, [operators](){: .metalanguage }, [debugging](){: .metalanguage }, [testing](){: .metalanguage }, [random](){: .metalanguage }
+[algorithm](){: .metalanguage }, [computational thinking](){: .metalanguage }, [computational concept](){: .metalanguage}, [computational practice](){: .metalanguage }, [computational perspective](){: .metalanguage}, [coding](){: .metalanguage }, [visual programming](){: .metalanguage }, [general-purpose programming](){: .metalanguage }, [hybrid coding environments](){: .metalanguage }, [sequences](){: .metalanguage }, [loops](){: .metalanguage }, [operators](){: .metalanguage }, [debugging](){: .metalanguage }, [testing](){: .metalanguage }, [random](){: .metalanguage }
 
 ## Materials
 
@@ -35,8 +35,8 @@ You will also learn about another **Computational Concept** called *Operators*.
 
 ### Activities
 
-- [Drawing a Sky Full of Stars with Pencil Code]() (Word document - Missing)
-- [Creating Dot Paintings with Pencil Code]() (Word document - Missing)
+- [Drawing a Sky Full of Stars with Pencil Code]({{ site.drive_url | append: '19_jsEX_9u5LXDTtfAx0QnUvAIn3_-wmH' }}) (Word document)
+- [Creating Dot Paintings with Pencil Code]({{ site.drive_url | append: '1ThXSxSSquIaiHDggb5qyKqROmFiqUUkE' }}) (Word document)
 
 ## Links
 

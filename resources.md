@@ -15,6 +15,7 @@ If you are interested in finding out more about *Coding*, *Computational Thinkin
 - [Computer Science Field Guide](http://csfieldguide.org.nz/){:target="_blank"}
 - [CS4FN - Computer Science 4 Fun](http://www.cs4fn.org/){:target="_blank"}
 - [Google's Computer Science Education Resources](https://www.google.com/edu/cs/index.html){:target="_blank"}
+- [Australian Computing Academy](https://aca.edu.au/){:target="_blank"}
 
 ## Online Courses
 
