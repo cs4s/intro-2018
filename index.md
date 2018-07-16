@@ -9,11 +9,15 @@ title: Home - CS4S Introduction Workshop @ UON 2018
 
 In this workshop you will:
 
-- Be introduced to *Computer Science*, *Coding* and *Computational Thinking*
-- Learn some ways of teaching *Computer Science* concepts without using a computer
-- Participate in hands-on activities with *Coding*, *Physical Computing* and *Scratch Teacher Accounts*
+- learn about what *Computer Science*, *Coding* and *Computational Thinking* are
+- discover some ways of teaching *Computational Thinking Concepts* without using a computer
+- solve a variety of *Puzzles* using *Coding*
+- learn about resources that can help you teach *Coding* in a way that encourages the development of creative and personally meaningful projects
+- learn about tools and resources that can help your students move from *Visual Programming* languages to *General-Purpose Programming* languages
+- create a variety of projects with *Physical Computing* devices
+- work together with other teachers to develop a lesson that involves the concepts that you have learned about in the workshop
 
-This workshop has been developed in a partnership with [Google](https://www.cs4hs.com/index.html){:target="_blank"}.
+This workshop has been developed in a partnership with [Google](https://edu.google.com/computer-science/educator-grants/){:target="_blank"}.
 
 ## Schedule 
 
@@ -26,8 +30,6 @@ The schedules for both of the days, and the materials for the hands-on activitie
 
 If you would like to use any of the workshop materials in your classroom, or if you would like modify them in any way, you are welcome to do so, provided you acknowledge the original source(s).
 We have also included links to extra resources on the [Resources]( {{ site.baseurl | append: site.resources_path }} ) page and a [Glossary]( {{ site.baseurl | append: site.glossary_path }} ) page with a list of key terms and their definitions.
-
-The following activities were developed for this workshop and are licenced under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Licence](https://creativecommons.org/licenses/by-nc-sa/4.0/){:target="_blank"}:
 
 ## Future CS4S Events
 

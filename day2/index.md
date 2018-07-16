@@ -13,7 +13,7 @@ title: Day 2 - CS4S Introduction Workshop @ UON 2018
 | 9:00am - 9:15am | Registration and Introductions |
 | **9:15am - 10:45am** | [**Moving From Blocks to Text Coding**]({{ site.baseurl | append: site.blocks_to_text_path }}) |
 | 10:45am - 11:00am | Morning Tea |
-| **11:00am - 12:30pm** | [**Physical Computing with Micro:bits**]({{ site.baseurl | append: site.physical_computing_path }}) |
+| **11:00am - 12:30pm** | [**Physical Computing with BBC Micro:bits**]({{ site.baseurl | append: site.physical_computing_path }}) |
 | 12:30pm - 1:00pm | Lunch |
 | **1:00pm - 1:30pm** | **Teaching Coding in K-12: Presentation from a Teacher** |
 | **1:30pm - 2:30pm** | [**Lesson Planning Activity**]({{ site.baseurl | append: site.lesson_planning_path }}) |
