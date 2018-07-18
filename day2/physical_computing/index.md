@@ -25,7 +25,7 @@ When Coding the projects in *MakeCode* and running them on the *Micro:bit* devic
 
 ### Presentations
 
-- [Physical Computing with Micro:bits Presentation]() (Powerpoint Presentation - Missing)
+- [Physical Computing with Micro:bits Presentation]({{ site.drive_url | append: '1aqr3kF9dUHFWdaJgKoP6SUSS-cKBuUqT' }}) (Powerpoint Presentation)
 
 ### Activities
 
