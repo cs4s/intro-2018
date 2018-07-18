@@ -29,8 +29,18 @@ When Coding the projects in *MakeCode* and running them on the *Micro:bit* devic
 
 ### Activities
 
-- [Making an Interactive Badge with BBC Micro:bits]() (Word document - Missing)
-- [Using Different Inputs with BBC Micro:bits]() (Word document - Missing)
+- [Making an Interactive Badge with BBC Micro:bits]({{ site.drive_url | append: '1EstVduDO6F9GakcghuWPwIsjsiHVLKuI' }}) (Word document)
+- [Using Different Inputs with BBC Micro:bits]({{ site.drive_url | append: '1oyN6sBDAHaF4SsiL-X08M6gpQLsZhtYu' }}) (Word document)
+
+### Finished Project Files
+
+- [Interactive Badge](hex_files/microbit-Interactive-Badge.hex)
+- [Dice](hex_files/microbit-dice.hex)
+- [Music Player](hex_files/microbit-Music-Player.hex)
+- [Up and Down Music](hex_files/microbit-Up-Down-Music.hex)
+- [Light Level Sensor](hex_files/microbit-Light-Level.hex)
+- [Temperature Sensor](hex_files/microbit-Temperature.hex)
+- [Compass](hex_files/microbit-Compass.hex)
 
 ## Links
 
