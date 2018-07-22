@@ -17,7 +17,7 @@ title: Day 2 - CS4S Introduction Workshop @ UON 2018
 | 12:30pm - 1:00pm | Lunch |
 | **1:00pm - 1:30pm** | **Teaching Coding in K-12: Presentation from a Teacher** |
 | **1:30pm - 2:30pm** | [**Lesson Planning Activity**]({{ site.baseurl | append: site.lesson_planning_path }}) |
-| **2:30pm - 2:50pm** | **Sharing Session** |
+| **2:30pm - 2:50pm** | [**Sharing Session**]({{ site.baseurl | append: site.sharing_path }}) |
 | **2:50pm - 3:00pm** | [Workshop Survey](https://www.surveymonkey.com/r/cs4s-intro-2018){:target="_blank"} |
 |===
 {: .table .table-striped .table-bordered}
