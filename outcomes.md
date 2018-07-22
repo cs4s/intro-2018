@@ -24,9 +24,9 @@ permalink: /outcomes
 
 **MA1-1WM:** describes mathematical situations and methods using everyday and some mathematical language, actions, materials, diagrams and symbols
 
-### MA2-1WM
+### MA1-2WM
 
-**MA2-1WM:** uses appropriate terminology to describe, and symbols to represent, mathematical ideas
+**MA1-2WM:** uses appropriate terminology to describe, and symbols to represent, mathematical ideas
 
 ### EN1-10C
 
