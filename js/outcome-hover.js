@@ -7,7 +7,6 @@ $(document).ready(function() {
 	$.each(outcomes, function(index, outcome) {
 
 		var outcome_id = outcome.innerText.toLowerCase().replace(/ /g, "-");
-		$(this).prop("href", "../../outcomes.html#" + outcome_id);
 
 		outcome.id = "outcome-" + outcome_id 
 		outcome_ids.push(outcome_id);
